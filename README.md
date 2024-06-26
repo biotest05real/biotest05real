@@ -1,3 +1,3 @@
 Welcome to my profile!
 
-$$\ce{$\unicode[background-color:red;]}
+$$\ce{$&#x5C;unicode[background-color:red;]}
