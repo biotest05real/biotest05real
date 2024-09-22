@@ -4,7 +4,7 @@ im some random guy from poland making mods for games
 
 i sometimes makes music for fun
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=biotest05real)
+![my github stats](https://github-readme-stats.vercel.app/api?username=biotest05real&theme=tokyonight&show_icons=true)
 
 quest B6CF8142045C36B0
 
